@@ -1,2 +1,2 @@
 # news
-http://www.leoann.cn
+https://www.leoann.cn
